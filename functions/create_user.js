@@ -7,6 +7,7 @@ module.exports = function(req, res) {
   }
 
   // Format the phone number to remove dashes and parens
+  // const phone = 
 
   // Create a new user account using the phone number
 
