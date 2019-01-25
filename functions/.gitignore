@@ -2,3 +2,5 @@ node_modules/
 ./service_account.json
 
 .DS_Store
+twilio_config.js
+twilio_number.txt
